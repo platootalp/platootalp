@@ -1,10 +1,6 @@
 # 快速开始
 
-## 知识索引
-
-https://github.com/platootalp/index
-
-## runtime
+https://github.com/platootalp/index 知识索引
 
 https://github.com/platootalp/techstack-panorama 技术栈全景图
 
