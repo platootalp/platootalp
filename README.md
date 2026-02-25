@@ -6,6 +6,8 @@ https://github.com/platootalp/techstack-panorama 技术栈全景图
 
 https://github.com/platootalp/lumira 基金投资助手
 
+https://github.com/platootalp/regen 简历生成助手
+
 
 
 
