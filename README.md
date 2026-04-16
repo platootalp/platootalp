@@ -8,6 +8,8 @@ https://github.com/platootalp/lumira 基金投资助手
 
 https://github.com/platootalp/regen 简历生成助手
 
+https://github.com/platootalp/GameMind 游戏市场分析Agent
+
 
 
 
