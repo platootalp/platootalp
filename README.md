@@ -2,13 +2,7 @@
 
 https://github.com/platootalp/index 知识索引
 
-https://github.com/platootalp/techstack-panorama 技术栈全景图
-
-https://github.com/platootalp/lumira 基金投资助手
-
-https://github.com/platootalp/regen 简历生成助手
-
-https://github.com/platootalp/GameMind 游戏市场分析Agent
+https://github.com/platootalp/agentic-engineering Agentic工程实践（技术栈全景图、简历生成 Agent、基金投资 Agent、游戏市场分析 Agent）
 
 
 
